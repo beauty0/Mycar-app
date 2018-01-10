@@ -1,2 +1,1 @@
-# Rentcar app
-This is a database car rental app
+# This is a Backup and recovery database 
